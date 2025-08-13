@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4eFJ9kfJe0WzPuA58P5v7Q" Reference="j8kRiwhDrEaYjnK7w1a69A/kSvsEhA990uZIQklVr4mHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="476e03bf-c91a-4e0c-aeb9-017f9eb37040" DesignTimeRectangle="132, 566, 32, 32" ElementType="Icon" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='IMG' src='../../lib/simpleCaptcha0.2/captchaImages/{0}' /&gt;&quot;, imagenASelecciona)]" Guid="f3d271f8-3b9f-4b38-8193-c61d9aecc570" ScopeSelectorArgument="&lt;html app='chrome.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e20db44482cda49edca464951fc534b1.png" xmlns="">0GEGknEcS8UakZc6y-kOMHA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="16.png" Name="imagenASelecciona" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

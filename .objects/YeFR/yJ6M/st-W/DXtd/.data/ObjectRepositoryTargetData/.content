@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="30e1BYDN2ESkaf0PdatUXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" DesignTimeRectangle="0, 0, 290, 98" FullSelectorArgument="&lt;ctrl role='pane' /&gt;" Guid="ad6f4abd-c113-4420-8871-53b251dee00b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' idx='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bfd4f81eba91a870967dae22a39c8aa9.png" xmlns="">0JWbZsIpXqEm2gZhFB7TvjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

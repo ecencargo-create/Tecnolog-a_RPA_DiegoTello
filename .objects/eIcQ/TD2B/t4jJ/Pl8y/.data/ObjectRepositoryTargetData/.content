@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fll92bgsa0O8THUapiif4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="c37632b9-d0a2-4cd2-8601-af78b97227b8" CvElementArea="128, 382, 293, 36" CvType="InputBox" DesignTimeRectangle="130, 383, 290, 34" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='form-control' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="6b2cc7de-7da0-4d49-8086-cf191c541886" ScopeSelectorArgument="&lt;html app='chrome.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c37632b9-d0a2-4cd2-8601-af78b97227b8" CvTextArea="128, 360, 144, 17" CvTextArgument="Criterio de Búsqueda" CvType="Text" DesignTimeRectangle="130, 358, 141, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Criterio de Búsqueda' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Criterio de Búsqueda' /&gt;" Guid="85fe7eb4-c317-47b9-9698-385712b50481" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c005ebeca2ba0cd4a9d2128a636f3fd8.png" xmlns="">0NIKBVcJgLEaFPU4i8jFJ5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

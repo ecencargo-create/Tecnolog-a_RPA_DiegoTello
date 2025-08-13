@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Provincia",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "nW-uYaMOTEKiF5FF6FIqxw",
+  "Reference": "j8kRiwhDrEaYjnK7w1a69A/nW-uYaMOTEKiF5FF6FIqxw",
+  "ParentRef": "j8kRiwhDrEaYjnK7w1a69A/t4jJ9w2DgUeT-iD2tQvhUw",
+  "Created": "2025-08-12T03:34:49.8746832Z",
+  "Updated": "2025-08-12T03:34:49.8746832Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
